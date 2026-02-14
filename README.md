@@ -1085,6 +1085,9 @@ else
 	echo "Number is NOT palindrome"
 fi
 ```
+Developed by: HEMAVARSHINI A
+
+Register no: 25017769
 ## OUTPUT 
 ![Alt text](img/echol.png)
 
